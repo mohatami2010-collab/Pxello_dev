@@ -7,3 +7,8 @@
   <li>👾making games with unity</li>
   <li>🎨make art with blender and affinity</li>
 </ul>
+
+<h3>my social accounts:</h3>
+<p>
+  <a href="www.youtube.com/@pxello-YT">youtube channel</a>
+</p>
