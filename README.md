@@ -1,7 +1,7 @@
 <h1 align="center">hi, i'm Pxel👋</h1>
 <h2 align="center">a guy who wants to do cool stuff</h2>
 
-<h3>my intrests:</h3>
+<h3>my goals:</h3>
 <ul>
   <li>🏫mastering python</li>
   <li>👾making games with unity</li>
