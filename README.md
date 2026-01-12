@@ -1,3 +1,3 @@
 # Pxello_dev
 
-<h1>hi, i'm Pxel</h1>
+<h1 aligne="center">hi, i'm Pxel👋</h1>
