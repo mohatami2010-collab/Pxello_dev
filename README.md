@@ -10,5 +10,5 @@
 
 <h3>my social accounts:</h3>
 <p>
-  <a href="www.youtube.com/@pxello-YT" style="text-decoration: none; color:red">youtube channel</a>
+  <a href="www.youtube.com/@pxello-YT" style="text-decoration: none;">youtube channel</a>
 </p>
