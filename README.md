@@ -3,7 +3,7 @@
 
 <h3>my intrests:</h3>
 <ul>
-  <li>mastering python</li>
-  <li>making games with unity</li>
-  <li>make art with blender and affinity</li>
+  <li>🏫mastering python</li>
+  <li>👾making games with unity</li>
+  <li>🎨make art with blender and affinity</li>
 </ul>
