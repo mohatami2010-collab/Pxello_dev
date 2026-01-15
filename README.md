@@ -3,7 +3,7 @@
 
 <h3>my goals:</h3>
 <ul>
-  <li>🏫mastering python</li>
+  <li>🏫mastering C#</li>
   <li>👾making games with unity</li>
   <li>🎨make art like wallpapers and 3d models</li>
 </ul>
@@ -14,7 +14,7 @@
 </p>
 
 <h3>tools and languages:</h3>
-python
+<a href="python.org">python</a>
 c#
 unity
 blender
