@@ -14,7 +14,7 @@
 </p>
 
 <h3>tools and languages:</h3>
-<a href="python.org">python</a>
+<a href="https://www.python.org/">python</a>
 c#
 unity
 blender
