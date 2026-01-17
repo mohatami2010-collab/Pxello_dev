@@ -15,9 +15,9 @@
 
 <h3>tools and languages:</h3>
 <a href="https://www.python.org/">python</a>
-c#
-unity
-blender
-affinity
-gimp
-vscode insiders
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp">C#</a>
+<a href="https://unity.com/">unity</a>
+<a href="https://www.blender.org/">blender</a>
+<a href="https://www.affinity.studio/">affinity</a>
+<a href="https://www.gimp.org/">gimp</a>
+<a href="https://code.visualstudio.com/insiders">vscode insiders</a>
