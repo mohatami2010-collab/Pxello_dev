@@ -14,8 +14,8 @@
 </p>
 
 <h3>tools and languages:</h3>
-<a href="https://www.python.org/">python</a>
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp">C#</a>
+<a href="https://www.python.org/">python</a>
 <a href="https://unity.com/">unity</a>
 <a href="https://www.blender.org/">blender</a>
 <a href="https://www.affinity.studio/">affinity</a>
