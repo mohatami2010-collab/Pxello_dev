@@ -14,8 +14,11 @@
   <a href="www.youtube.com/@pxello-YT" style="text-decoration: none;">youtube channel</a>
 </p>
 
+<h3>e-mail: mohatami2010@gmail.com</h3>
+
 <h3>tools and languages:</h3>
 <a href="https://www.python.org/">python</a>
+<a href="https://git-scm.com/install/">Git</a>
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp">C#</a>
 <a href="https://unity.com/">unity</a>
 <a href="https://www.blender.org/">blender</a>
