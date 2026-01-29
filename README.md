@@ -3,7 +3,8 @@
 
 <h3>my goals:</h3>
 <ul>
-  <li>🏫mastering C#</li>
+  <li>🏫mastering python</li>
+  <li>makin cool apps and software with python</li>
   <li>👾making games with unity</li>
   <li>🎨make art like wallpapers and 3d models</li>
 </ul>
@@ -14,8 +15,8 @@
 </p>
 
 <h3>tools and languages:</h3>
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp">C#</a>
 <a href="https://www.python.org/">python</a>
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp">C#</a>
 <a href="https://unity.com/">unity</a>
 <a href="https://www.blender.org/">blender</a>
 <a href="https://www.affinity.studio/">affinity</a>
